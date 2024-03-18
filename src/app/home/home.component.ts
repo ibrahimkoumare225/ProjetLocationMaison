@@ -14,6 +14,7 @@ import { Housinglocation } from '../housinglocation';
   </section>
   <section class="results">
     <app-housing-location></app-housing-location>
+    
   </section>
   `,
   styleUrl: './home.component.css'
